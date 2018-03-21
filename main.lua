@@ -9,8 +9,8 @@ local widget = require( "widget" )
 
 local kidoz  = require( "plugin.kidoz" )
 
-local publisherID = "13417"
-local securityToken = "KjP9fpLbAGzNrlu58YA2A69ssHwYpnbD"
+local publisherID = "YOUR_PUBLISERID_HERE"
+local securityToken = "YOUR_SECURITY_TOKEN_HERE"
 
 _H = display.contentHeight
 _W = display.contentWidth
